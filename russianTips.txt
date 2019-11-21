@@ -1,5 +1,5 @@
 Mouse over a built structure and press [SPACEBAR] to duplicate the structure.~~~Наведите курсор мыши на построенную структуру и нажмите [ПРОБЕЛ], чтобы дублировать структуру.
-Minecarts move faster on highway tracks, use hotkeys 1,2,3 to switch track heights in build mode.~~~Минные тележки движутся быстрее на трассах шоссе, используйте горячие клавиши 1,2,3 для переключения высот треков в режиме сборки.
-[X] is the hotkey for selling, you can sell structures for a full refund.~~~[X] - это горячая клавиша для продажи, вы можете продавать структуры для полного возврата.
-Don't be afraid to delete your system and rebuild it in a more efficient way, pausing can be useful while doing so.~~~Не бойтесь удалить свою систему и перестроить ее более эффективным способом, при этом может быть полезна пауза.
+Minecarts move faster on highway tracks, use hotkeys 1,2,3 to switch track heights in build mode.~~~Вагонетки движутся быстрее по рельсам, используйте горячие клавиши 1,2,3 для переключения высоты рельс в режиме постройки.
+[X] is the hotkey for selling, you can sell structures for a full refund.~~~[X] - это горячая клавиша для продажи, вы можете продавать структуры для полного возврата средств.
+Don't be afraid to delete your system and rebuild it in a more efficient way, pausing can be useful while doing so.~~~Не бойтесь удалять свою систему и перестраивать ее более эффективным способом, при этом может быть полезна пауза.
 Hold [TAB] to see inside all of your factories at the same time.~~~Удерживайте [TAB], чтобы увидеть все ваши заводы одновременно.
