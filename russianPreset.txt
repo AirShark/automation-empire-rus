@@ -338,7 +338,7 @@ Sets the priority drones will give to this pitstop relative to others.`Drones ca
 droneBayPowerHover~~~Для работы требуется электричество.`Ежемесячные расходы: $320.`Использование емкости: 0
 trainPowerHover~~~Для работы требуется электричество. `Ежемесячные расходы: $4000.`Использование емкости: 5
 Revenue~~~Доход
-3-month Weight Output Goal:~~~3 месяца Весовой экспорт Цель:
+3-month Weight Output Goal:~~~Цель, экспорт веса за 3 месяца:
 3-month weight output record of:~~~Вес за 3 месяца:
 MISSION OBJECTIVE~~~Цель миссии
 SAVED~~~Сохраненный
