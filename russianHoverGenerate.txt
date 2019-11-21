@@ -1,0 +1,20 @@
+ARBO~~~ARBO
+Capacitors~~~Конденсаторы
+Ash~~~Пепел
+AshAshAshAshAshAshAshAshAshAsh~~~I am the best there ever was I am the best there ever was I am the best there ever was
+Coal~~~Уголь
+Coal Ore~~~Угольная руда
+Ethanol~~~Этиловый спирт
+Gold~~~Золото
+Gold Fuel~~~Золотое Топливо
+Gold Ore~~~Золотая руда
+Green Grain~~~Зеленое Зерно
+Grain Meal~~~Зерновая мука
+Red Grain~~~Красное Зерно
+Green Grass~~~Зеленая трава
+Red Grass~~~Красная трава
+Iron~~~Железо
+Iron Ore~~~Железная руда
+Oil~~~Нефть
+Crude Oil~~~Сырая нефть
+Steel Plates~~~Стальные пластины

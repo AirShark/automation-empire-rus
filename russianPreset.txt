@@ -1,0 +1,404 @@
+﻿BUY~~~Улучшить
+TRANSFER-TUBE~~~Транспортная труба
+POWER POLE~~~Опора ЛЭП
+LOAD STATION~~~Конвейер погрузки
+UNLOAD STATION~~~Конвейер разгрузки
+CLAWTRAIN TRACK~~~Монорельс
+TRAIN TRACK~~~Железная дорога
+ROAD~~~Дорога
+This will destroy the factory and all of its contents, are you sure?~~~Это уничтожит фабрику и все ее содержимое, вы уверены?
+Holds up to X cratesworth of one kind of resource. Allows the transfer of resources in and out via Transfer-Tubes.~~~Вмещает до 40 единственного типа ресурса. Позволяет передавать ресурсы внутрь и наружу через трансферную трубку.
+Transfers Crates from one Conveyor to another Conveyor.~~~Переносит ящики с одного конвейера на другой. Может быть построен только на заводе.
+CRATE MAKER~~~Упаковщик
+GREEN GRASS~~~Зеленая трава
+NO~~~нет
+YES~~~да
+GREEN~~~зеленый
+RED~~~красный
+DroneBayInfo~~~DroneBayInfoDroneBayInfoDroneBayInfoDroneBayInfoDroneBayInfopppppppppppppppppppppppppppppppppppppppppppp##Можно подключиться только к:##_conveyorImage
+Must unlock Water Works before unlocking farms~~~Необходимо разблокировать воду, прежде чем разблокировать фермы
+This will destroy the factory and all of its contents, are you sure?~~~Это уничтожит фабрику и все ее содержимое, вы уверены?
+FACTORY~~~Завод
+POWER CONNECTED~~~Эллектричество:
+WATER CONNECTED~~~Вода:
+CONTAINER~~~Контейнер
+ACCEPTED RESOURCE:~~~Разрешенный ресурс:
+ACCEPTED RESOURCES:~~~Разрешенные ресурсы:
+CONTAINS:~~~Содержит:
+DESTROY CONTENTS~~~Уничтожить содержимое
+ANY~~~Любые
+REMOTE CONNECTOR~~~Дистанционный разъем
+REMOTCONNECTORDESCREMOTCONNECTORDESCREMOTCONNECTORDESCREMOTCONNECTORDESCREMOTCONNECTORDESC~~~Принимает ресурсы для удаленной передачи в контейнер определенного цвета. Цвет задается в настройках контейнера. На каждом заводе может быть только по одному контейнеру каждого цвета.
+TRANSFER-CLAW~~~Транспортер
+POWER STATION~~~Электростанция
+POWER STATIONDESC~~~Вырабатывает электроэнергию, необходимую для функционирования определенных структур.
+POWER POLEDESC~~~Передает электроэнергию от электростанции к различным устройствам и заводам.
+ACCEPTED CONTENTS:~~~Принимаемое содержание:
+ALL~~~Все
+NONE~~~Очистить
+SKIP EVERY:~~~Пропустить каждый:
+OFF~~~Выкл
+ON~~~Вкл
+DRONE PRIORITY:~~~Приоритет для дронов:
+ACTIVE CRATES:~~~Ящики:
+HIGH~~~Высокий
+MEDIUM~~~Средний
+LOW~~~Низкий
+OFF~~~Выключить
+CONTENTS~~~Хранилище
+CrateMakerDescriptionCrateMakerDescriptionCrateMakerDescription~~~Упаковывает сырье в ящики. Имеет дополнительные входные порты, через которые поступает сырье для упаковки. Может быть построен снаружи или внутри завода. (имеет внутреннее хранилище на 30 ящиков)
+ClawTrainPickupStopDescClawTrainPickupStopDescClawTrainPickupStopDesc~~~Место сстановки специального захвата для подьема ящика с конвейера.
+CLAWTRAIN PICK-UP STOP~~~Остановка захвата
+ClawTrainDropOffStopDescClawTrainDropOffStopDescClawTrainDropOffStopDesc~~~Место остановки специального захвата для спуска ящика на конвейер.
+CLAWTRAIN DROP-OFF STOP~~~Остановка спуска
+CLAWTRAIN TRUCK LOADER~~~Автомобильный погрузчик
+ClawTrainTruckLoaderDescClawTrainTruckLoaderDescClawTrainTruckLoaderDesc~~~Строится над остановкой грузовиков для загрузки через монорельсовую систему с помощью захватов.
+CLAWTRAIN CRATE GATE~~~Блокировщик
+ClawTrainCrateGateDescClawTrainCrateGateDescClawTrainCrateGateDesc~~~Устанавливает ограничения на прохождение специальных захватов по монорельсу, если не были соблюдены заданные значения перевозимых ящиков.
+PASS REQUIREMENTS:~~~Проходящие требования:
+MAXIMUM CRATES~~~Максимальные ящики:
+MINIMUM CRATES~~~Минимальные ящики:
+NEVER ALLOW~~~Никогда не позволяй
+TRANSFER-TUBE G2G~~~Трубка переноса
+Transfer-Tube G2GDESCTransfer-Tube G2GDESCTransfer-Tube G2GDESC~~~Транспортирует ресурсы между специальными портами разных устройств или контейнеров.
+TRANSFER-TUBE G2T~~~Трубка переноса
+TRANSFER-TUBE G2TDESCTRANSFER-TUBE G2TDESCTRANSFER-TUBE G2TDESC~~~Разгружает ресурсы из контейнеров или других устройств в вагонетки и ящики.
+TRANSFER-TUBE T2G~~~Трубка переноса
+TRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESC~~~Позволяет загрузить ресурс из вагонеток или ящиков в нижний порт других устройств или контейнеров.
+LOAD-STATION~~~Станция погрузки
+LOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESC~~~Дроны могут ставить ящики на этот конвейер. Также работает с точками захвата и спуска ящиков при помощи монорельса.
+UNLOAD-STATION~~~UNLOAD-STATION
+UNLOAD-STATION:~~~UNLOAD-STATION2
+UNLOAD-STATTION~~~UNLOAD-STATION3
+UNLOAD-STATTION:~~~UNLOAD-STATION4
+UNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESC~~~Дроны могут брать с него ящики. Так же работает с точками захвата и спуска ящиков при помощи монорельса. (можно включить уничтожение пустых ящиков)
+DESTROY ALL CRATES:~~~Уничтожьте все ящики:
+ROAD PITSTOP~~~Остановка грузовиков
+ROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESC~~~Грузовики останавливаются на этой остановке в ожидании загрузки ящиков дронами или монорельсовыми погрузчиками. После загрузки, грузовик уезжает что бы продать товар.
+TRAIN LOADING-SILO~~~Хранилище
+TRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESC~~~Загружает вагоны поезда. Хранилище может хранить до 16 едениц одного вида ресурса.
+DRONEBAY~~~Ангар дронов
+DRONE BAY~~~Ангар дронов
+DRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESC~~~Обеспечивает беспроводную связь для работы 4 дронов.
+MINING RIG~~~Буровая установка
+MININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESC~~~Извлекает из земли сырьевые ресурсы, такие как угольная/железная/золотая руда. Должен быть построен на месторождении ресурсов.
+CURRENTLY MINING:~~~Добывает:
+1 PER~~~раз в
+SECONDS~~~сек
+OIL DERRICK~~~Нефтяная вышка
+OILDERRICKDESCOILDERRICKDESCOILDERRICKDESCOILDERRICKDESCOILDERRICKDESC~~~Извлекает сырую нефть из земли. Должен быть построен на нефтяном месторождении. Беспроводная связь использует 1000 долларов США в месяц.
+CURRENTLY EXTRACTING:~~~В настоящее время извлекает:
+FARM PLATFORM~~~Фермерская платформа
+FARM PLATFORMDESCFARM PLATFORMDESCFARM PLATFORMDESC~~~Служит платформой для выращивания травы.
+GRASS TYPE~~~Тип травы
+6 PER~~~шесть каждые
+REFINER~~~Очиститель
+REFINERDESCREFINERDESCREFINERDESCREFINERDESCREFINERDESCREFINERDESCREFINERDESCREFINERDESC~~~Производит очистку руды. Должен быть построен на заводе. Принимает на вход ящики с упаковщика или конвейера.
+CURRENTLY REFINING:~~~В настоящее время дорабатывается:
+COMBINER~~~Сборщик
+COMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESC~~~Создает новый тип ресурса при объединениии двух сырьевых материалов. Забирает ресурсы с боковых портов. Выводит конечный продукт на передний порт. Должен быть построен на заводе.
+CURRENTLY COMBINING:~~~В настоящее время объединяет:
+RESEARCH BAY~~~Лаборатория
+RESEARCH UPGRADES~~~Улучшения
+RESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESC~~~Вырабатывает очки, которые можно потратить в меню исследований, чтобы улучшить или разблокировать новые структуры. Использует любой ресурс на входе и создает очки исследования, эквивалентные стоимости данного ресурса. Очки можно забрать после обработки определенного кол-ва ресурса.
+PROCESSING CONTENTS INTO:~~~Превращение содержимого в:
+RESEARCH POINTS~~~Очки исследования
+MINETRACK~~~Трек
+MINECARTDESCMINECARTDESCMINECARTDESCMINECARTDESCMINECARTDESCMINECARTDESCMINECARTDESCMINECARTDESCMINECARTDESC~~~Служит трассой для одиночного поезда из вагонеток. Тележки, которые достигают конца пути, изменяют свое направление. Каждая вагонетка может содержать 4 еденицы ресурса.
+MINECARTSMOVETITLE~~~Трек смещения
+MINECARTRAMPTITLE~~~Рампа
+CAPACITY~~~Нагрузка
+CARTS~~~Количество тележек
+ADD CART~~~Добавить корзину
+ADD~~~Добавить
+REMOVE CART~~~Удалить корзину
+REMOVE~~~Удалить
+CLAWTRAIN TRACK DESCCLAWTRAIN TRACK DESCCLAWTRAIN TRACK DESCCLAWTRAIN TRACK DESCCLAWTRAIN TRACK DESC~~~Служит треком для одного состава из специальных захватов. Захваты, которые достигают конца пути продолжают вдижение в обратном направлении.
+CLAWS~~~Когти
+ADD CLAWS~~~Добавить когти
+ADD~~~Добавить
+REMOVE CLAWS~~~Удалить когти
+REMOVE~~~Удалить
+WATER RESERVOIR~~~Водохранилище
+COST~~~Стоимость
+UNLOCK~~~Исследовать
+GREENHOUSE UNLOCK TITLE~~~Теплица
+FARMING UNLOCK TITLE~~~Ферма
+WATERWORKS UNLOCK TITLE~~~Вода
+ROCKET UNLOCK TITLE~~~Ракета
+OIL DERRICK UNLOCK TITLE~~~Нефтяная вышка
+FREIGHT TRAIN UNLOCK TITLE~~~Грузовой поезд
+REFINER UNLOCK TITLE~~~Плавильная печь
+STEP CONVEYOR UNLOCK TITLE~~~Шаговый конвейер
+REMOTE CONNECTOR UNLOCK TITLE~~~Удаленный разъем
+COMBINER UNLOCK TITLE~~~Сборщик
+CLAWTRAIN CRATE GATE UNLOCK TITLE~~~Блокировщик
+CLAWTRAIN TRUCK LOADER UNLOCK TITLE~~~Автомобильный погрузчик
+CLAW TRAIN UNLOCK TITLE~~~Монорельс
+FREIGHT TRAIN~~~грузовой поезд
+FARMING~~~сельское хозяйство
+GREENHOUSE UNLOCK DESC~~~Увеличивает скорость производства фермы на 25%.
+FARMING UNLOCK DESC~~~Выращивайте различные сорта травы, чтобы добавить сельскохозяйственные ресурсы в вашу цепочку производства.
+WATERWORKS~~~вода
+WATERWORKS UNLOCK DESC~~~Позволяет использовать воду для улучшения работы некоторых устройств.
+CARGO ROCKET~~~грузовая ракета
+ROCKET UNLOCK DESC~~~Запустите грузовые ракеты, заполненные ящиками, чтобы продать свои ресурсы на галактическом рынке. Из-за высокого спроса вне мира ресурсы, продаваемые ракетами, дают бонус веса / дохода в размере 25%.
+OIL DERRICK UNLOCK DESC~~~Добывает нефть из нефтяных месторождений.
+TRAIN UNLOCK DESC~~~Позволяет использовать сеть подземных железных дорог для продажи ваших товаров. Поезда загружаются ресурсами в специальных погрузчиках.
+REFINER UNLOCK DESC~~~Перерабатывает базовые руды в улучшенные. Необходимо строить внутри завода. Принимает на вход сырье в ящиках.
+STEP CONVEYOR UNLOCK DESC~~~Шаговый конвейер равномерно передвигает ящики по ленте. Может использоваться совместно с обычными конвейерами и монорельсом.
+REMOTE CONNECTOR UNLOCK DESC~~~Используется для удаленной передачи сырья в контейнер. Удобен в использовании больших схем автоматизации.
+COMBINER UNLOCK DESC~~~Производит более сложные материалы из двух видов сырья. Материаля для обработки необходимо передавать по трубам.
+CLAWTRAIN CRATE GATE UNLOCK DESC~~~Позволяет блокировать прохождение монорельсовых захватов пока в них не будет необходимого кол-ва ящиков.
+CLAWTRAIN TRUCK LOADER UNLOCK DESC~~~Позволяет загружать ящики с помощью монорельсовой системы. Устанавливается над остановкой грузовиков и подключается к монорельсу.
+CLAW TRAIN UNLOCK DESC~~~Монорельсовая сеть по которой передвигаются специальные захваты ящиков. Позволяет поднимать/перемещать/опускать ящики между конвейерами.
+WATERRESERVOIRDESCWATERRESERVOIRDESCWATERRESERVOIRDESC~~~Перекачивает грунтовые воды в трубы, которые можно подключать к различным машинам.
+ROAD ENTRY~~~Выезд из тоннеля
+ROADENTRYDESCROADENTRYDESCROADENTRYDESCROADENTRYDESC~~~Служит точкой выезда грузовиков для загрузки ящиков на местах остановки. Возможно построить только рядом с другими выходными тоннелями (если это первый выход, то устанавливается в любом месте).
+ROAD EXIT~~~Въезд в тоннель
+ROADEXITDESCROADEXITDESCROADEXITDESCROADEXITDESC~~~Служит точкой выезда из вашей колонии. Вы получаете деньги с продажи ящиков в моемнт проезда грузовиков через данный тоннель.
+POWER STATION~~~Электростанция
+POWERSTATIONDESCPOWERSTATIONDESCPOWERSTATIONDESCPOWERSTATIONDESC~~~Вырабатывает электроэнергию, необходимую для функционирования определенных механизмов и заводов.
+TRAIN TRACK ENTRY~~~Выезд поезда
+TRAIN TRACK ENTRYDESCTRAIN TRACK ENTRYDESCTRAIN TRACK ENTRYDESC~~~Служит точкой входа грузовых поездов, приезжающих в вашу колонию для загрузки ресурсов. Должен быть построен рядом с другими туннелями выезда поездов, если они были построены ранее.
+TRAIN TRACK EXIT~~~Заезд поезда
+TRAINTRACKEXITDESCTRAINTRACKEXITDESCTRAINTRACKEXITDESCTRAINTRACKEXITDESC~~~Служит точкой выхода грузовых поездов, уезжающих из вашей колонии для продажи загруженных ресурсов. Прибыль от продажи груза зачисляется на ваш счет, как только поезд уезжает через тоннель.
+DRONE~~~Дрон
+DRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESCDRONEDESC~~~Транспортирует ящики с конвейеров на грузовики, расположенные на местах остановки. Привязан к ангару дронов.
+Holding:~~~Держит:
+DESTROY CRATE~~~Уничтожить ящик
+ROCKET LAUNCHPAD~~~Стартовая площадка ракеты
+ROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESCROCKETDESC~~~Служит посадочной площадкой и стартовой площадкой для грузовых ракет. Получает ящики через погрузочную станцию и загружает их в находящуюся в данный момент ракету. Когда ракета заполнена, она отправляется с ящиками, которые будут продаваться на галактическом рынке, с бонусом 25% веса / дохода. Беспроводная связь использует 1000 долларов США в месяц.
+PAD CONTENTS:~~~содержание:
+ROCKET CONTENTS:~~~Содержание ракеты:
+FACTORY~~~завод
+FACTORYDESC~~~Обеспечивает внутреннее пространство, в котором могут быть построены сложные схемы переработки ресурсов. Необходимо подключение к источнику питания, чтобы обеспечить энергией размещенные машины.
+DOORWAY~~~Дверной проем
+DOORWAYDESC~~~Обеспечивает вход на фабрику, который будет использоваться дронами, ваганетками или монорельсом.
+MALL CONTAINER~~~Маленький контейнер
+SMALLCONTAINERDESC~~~Вмещает до 40 ящиков одного вида ресурса. Позволяет транспортировать ресурсы через транспортные трубы.
+SMALL CONTAINER~~~Малый контейнер
+LARGE CONTAINER~~~Большой контейнер
+LARGECONTAINERDESC~~~Вмещает до 120 ящиков одного вида ресурса. Позволяет транспортировать ресурсы через транспортные трубы.
+GENERALCONTAINERDESCGENERALCONTAINERDESCGENERALCONTAINERDESCGENERALCONTAINERDESCGENERALCONTAINERDESC~~~Содержит ресурсы единственного типа. Позволяет передавать ресурсы внутрь и наружу через передаточные трубки.
+WATER RESERVOIR~~~Водохранилище
+WATER RESERVOIRDESC~~~Перекачивает грунтовые воды в трубы, которые можно соединить с различными конструкциями для улучшения их работы.
+WATER PIPE~~~Водопроводная труба
+WATER PIPEDESC~~~Переносит воду из водоема в различные сооружения.
+GREENHOUSE UPGRADE~~~Теплица
+GREENHOUSE DESC~~~Обновление для фермерской платформы ускоряет рост растений на 25%.
+STEP CONVEYOR~~~Шаговый конвейер
+STEP CONVEYORDESC~~~Перемещает ящики с интервалом в одну секунду. Движение останавливается, если у ящика на конвейере нет позиции для перемещения.
+RESEARCH UNLOCKS~~~Исследования
++10% highway Minecart speed:~~~+10% к скорости вагонеткок
++20% highway Minecart speed:~~~+20% к скорости вагонеткок
++30% highway Minecart speed:~~~+30% к скорости вагонеткок
++40% highway Minecart speed:~~~+40% к скорости вагонеткок
++50% highway Minecart speed:~~~+50% к скорости вагонеткок
++10% Clawtrain speed~~~+10% скорости передвижения захватов
++20% Clawtrain speed~~~+20% скорости передвижения захватов
++30% Clawtrain speed~~~+30% скорости передвижения захватов
++40% Clawtrain speed~~~+40% скорости передвижения захватов
++50% Clawtrain speed~~~+50% скорости передвижения захватов
++10% Drone speed~~~+10% скорости передвижения дронов
++20% Drone speed~~~+20% скорости передвижения дронов
++30% Drone speed~~~+30% скорости передвижения дронов
++40% Drone speed~~~+40% скорости передвижения дронов
++50% Drone speed~~~+50% скорости передвижения дронов
++2 Max Minecarts per track~~~+2 вагонетки
++4 Max Minecarts per track~~~+4 вагонетки
++6 Max Minecarts per track~~~+6 вагонеток
++8 Max Minecarts per track~~~+8 вагонеток
++10 Max Minecarts per track~~~+10 вагонеток
++2 Max Clawtrains per track~~~+2 монорельсовых захвата
++4 Max Clawtrains per track~~~+4 монорельсовых захвата
++6 Max Clawtrains per track~~~+6 монорельсовых захватов
++8 Max Clawtrains per track~~~+8 монорельсовых захватов
++10 Max Clawtrains per track~~~+10 монорельсовых захватов
+Train interval -5 sec~~~Интервал появления поезда -5 сек
+Train interval -10 sec~~~Интервал появления поезда -10 сек
+Train interval -15 sec~~~Интервал появления поезда -15 сек
+Train interval -20 sec~~~Интервал появления поезда -20 сек
+Train interval -25 sec~~~Интервал появления поезда -25 сек
+Truck interval -1.5 sec~~~Интервал появления грузовика -1,5 сек
+Truck interval -3 sec~~~Интервал появления грузовика -3 сек
+Truck interval -4.5 sec~~~Интервал появления грузовика -4.5 сек
+Truck interval -6 sec~~~Интервал появления грузовика -6 сек
+Truck interval -7.5 sec~~~Интервал появления грузовика -7.5 сек
+FINANCES~~~Финансы
+Previous month's revenue:~~~Доход за предыдущий месяц:
+Previous 3 month's revenue:~~~Доход за предыдущие 3 месяца:
+Previous 6 month's revenue:~~~Доход за предыдущие 6 месяцев:
+Previous month's power and taxes:~~~Расходы на электроэнергию и налоги за предыдущий месяц:
+Previous 3 month's power and taxes:~~~Расходы на электроэнергию и налоги за предыдущие 3 месяцев:
+Previous 6 month's power and taxes:~~~Расходы на электроэнергию и налоги за предыдущие 6 месяцев:
+Record 3-month weight output:~~~Запись 3-месячного веса экспорта:
+CURRENT MONTH:~~~Текущий месяц:
+Current month's power and taxes:~~~Расходы на электроэнергию и налоги текущего месяца:
+Current month's revenue:~~~Доход текущего месяца:
+Current 3-month weight output:~~~Текущий 3-месячный весовой экспорт:
+DEMAND BONUS~~~Бонусы продажи
+WEIGHTS~~~Таблица веса
+WEIGHT PER 1 CRATESWORTH~~~Вес 1 ящика
+RECIPES~~~Рецепты
+Recipe For:~~~Рецепт:
+IncompatibleCombination~~~Несовместимая `комбинация
+TIPS~~~Советы
+Minecart tracks are great for transporting resources from distant mining rigs, try it out!~~~Железнодорожные вагонетки отлично подходят для транспортировки сырья с дальних месторождений.
+MEDALLION~~~Медальон
+MEDALLION:~~~Медальон:
+MEDALLION DESC~~~В качестве второстепенной цели для каждого сценария вы можете разблокировать медальон, выполняя ежемесячную цель растяжки веса.
+MISSION OBJECTIVES~~~Цели миссии
+OPTIONS~~~Параметры
+Edge Panning:~~~Край панорамирования:
+DOF Tilt-shift:~~~Крошечный режим:
+Camera friction:~~~Трение камеры:
+DOF Focus:~~~Фокус:
+Field of view:~~~Поле зрения:
+Reset FOV~~~Сброс
+SOUND VOLUME:~~~Громкость:
+SAVE~~~Сохранить игру
+SAVE AND EXIT~~~Сохранить и выйти
+EXIT~~~Выход
+TRAIN TRACKDESC~~~Служит трассой для поездов, проходящих через вашу колонию.
+ROADDESC~~~Служит в качестве пути для грузовиков, проезжающих через вашу колонию для возможности загрузки ящиков и их дальнейшей продажи.
+[  ] to rotate.~~~[  ] вращать
+[  ] to untether.~~~[  ] отвязать
+[  ] to toggle turn.~~~[  ] переключить тип поворота
+Due to high demand from lack of market saturation, most resources start with a revenue bonus attached to any sale of the given resource.``This bonus will degrade over time as you saturate the market with the given resource. Demand bonus also applies to research points a resource will generate.~~~Из-за высокого спроса из-за недостаточного насыщения рынка большинство ресурсов начинаются с бонуса дохода, связанного с любой продажей данного ресурса. ``Этот бонус со временем будет ухудшаться по мере насыщения рынка данным ресурсом. Бонус спроса также применяется к очкам исследования, которые генерирует ресурс.
+The processes for making every potential resource.~~~Процессы создания каждого потенциального ресурса.
+Power costs - All electricity consuming machines contribute to your monthly power expenses``Taxes - The galactic government levies an equilibrium tax which is based on the total profit you've made with your colony over time (Each week charges 2% of your total profit). In the event of an income deficit, your tax will decrease to adjust.~~~Затраты на электроэнергию - все машины, потребляющие электроэнергию, вносят свой вклад в ежемесячные расходы на электроэнергию. ``Правительство галактики взимает налог на равновесие, который основан на общей прибыли, которую вы получили со своей колонией за время. Каждую неделю взимается 2% от общей прибыли. В случае дефицита дохода, ваш налог будет уменьшаться для корректировки.
+Weekly power costs:~~~Еженедельные затраты на электроэнергию:
+Connecting water enables interior air conditioning.``Air conditioning lowers the monthly power costs of housed machines by X%.~~~Подключение воды обеспечивает внутреннее кондиционирование воздуха. `Кондиционирование воздуха снижает ежемесячные расходы на электроэнергию на 15%. `Потребляемая мощность: 10
+Some housed machines require power to function.`Capacity use: 10~~~Некоторым внутренним машинам требуется питание для работы. `Используемая мощность: 10
+Requires power to function.``Monthly costs: $X``Power must be connected to the factory housing this machine.~~~Для работы требуется электричество. ``Питание должно быть подключено к заводу, на котором установлена эта машина.
+Requires power to function.`Monthly costs: $X`Power must be connected to the Factory housing this machine or the machine itself (if it's outside).~~~Для работы требуется питание. `Ежемесячные расходы: 1200 долл. США. `Электропитание должно быть подключено к заводу, на котором установлена эта машина, или к самой машине (если она находится снаружи).
+Only X crates created by this crate maker can be active in your colony at a time.`If the limit is reached, this crate maker will pause the creation of new crates until an active crate is sold or destroyed.~~~Только 30 ящиков, созданных этим создателем ящиков, могут быть активными в вашей колонии одновременно. ``Если предел достигнут, этот производитель ящиков приостанавливает создание новых ящиков, пока активный ящик не будет продан или уничтожен.
+Can be set to skip a certain number of crates or minecarts, letting them pass by unaffected.~~~Может быть настроено пропускать определенное количество ящиков или тележек, позволяя им пройти без изменений.
+Sets which crates will be moved, depending on what resources they hold.~~~Устанавливает, какие ящики будут перемещаться, в зависимости от того, какие ресурсы они содержат.
+Monthly power costs:~~~Ежемесячные расходы на электроэнергию:
+Monthly tax costs:~~~Ежемесячные налоговые расходы:
+Sets what resources will be accepted by trucks which stop here.~~~Устанавливает, какие ресурсы будут приниматься грузовиками, которые останавливаются здесь.
+Sets the priority drones will give to this station relative to others.`Drone can be set to not bring crates here at all, if it's set to "OFF".~~~Устанавливает приоритет, который дроны будут отдавать этой станции по отношению к другим. `Дроны могут быть настроены так, чтобы вообще не приносить сюда ящики.
+Sets the priority drones will take from this station.`Drone can be set to not take crates from here at all, if it's set to "OFF".~~~Устанавливает приоритет, который дроны будут отдавать этой станции. `Дроны можно настроить так, чтобы они вообще не брали ящики.
+Sets which remote connector to be connected to if any exist in this container's factory. Only one container per factory can be set to a given color.~~~Устанавливает, к какому удаленному соединителю подключаться, если таковой существует на фабрике этого контейнера. ``Только один контейнер на фабрику может быть настроен на данный цвет.
+Sets what singular resource type will be allowed in.~~~Устанавливает, какой тип ресурса будет разрешен в.
+Requires power to function.`Monthly costs: $X~~~Для работы требуется электричество. `Ежемесячные расходы: 1200 долл. США
+MiningRigWaterHover~~~Подвод воды позволяет осуществлять фрекинг. `Это увеличивает скорость экстракции на 30%. `Использование емкости: 3
+oilDerrickWaterHover~~~Подвод воды позволяет осуществлять фрекинг. `Это увеличивает скорость экстракции на 30%. `Использование емкости: 3
+RESEARCHBAYPOWERHOVER~~~Для работы требуется электричество. `Ежемесячные расходы: 200 долларов. `Использование емкости: 2
+miningRigPowerHover~~~Для работы требуется электричество. `Ежемесячные расходы: 800 долларов. `Использование емкости: 3
+refinerPowerHover~~~Для работы требуется электричество. `Ежемесячные расходы: 800 долларов. `Электричество должно быть подключено к заводу, в котором находится этот аппарат.
+crateMakerPowerHover~~~Для работы требуется электричество. `Ежемесячные затраты: 1 200 долл. США. Использование емкости: 1 (вне помещения). `Питание должно быть подключено к заводскому корпусу, в котором находится данный аппарат, или к самому устройству (если он находится снаружи).
+clawTrainCrateGateHover~~~-Если включен параметр «Никогда не разрешать», то никакие когтетрины не смогут проходить в направлении стрелки. ``«Если включен параметр« Минимальное количество ящиков », то для того, чтобы пройти, коготьёрен должен удерживать как минимум минимальное количество ящиков. ``Если« Минимальное количество ящиков »включено, то для прохождения« коготь »должен удерживаться под максимальным количеством ящиков.
+researchBayWaterHover~~~Подключение воды обеспечивает внутреннее водяное охлаждение. `Водяное охлаждение увеличивает скорость исследования на 10%. `Использование емкости: 2
+researchBayProcessingHover~~~Он конвертирует содержащиеся ресурсы в исследовательские точки с течением времени. `Стоимость исследования эквивалентна стоимости в долларах.
+combinerPowerHover~~~Для работы требуется электричество. `Ежемесячные расходы: 4000 долл. США. `Электропитание должно быть подключено к заводу, в котором находится данный аппарат.
+researchBayFillBar~~~Точки исследования могут быть востребованы после того, как они заполнят планку до синей метки. ``Для разблокировки определенных технологий требуется изучение конкретных типов ресурсов.
+addMinecartHover~~~Добавьте еще одну тележку в этот поезд. `Стоит 2500 долларов.
+removeMinecartHover~~~Удаляет / продает корзину с этого поезда. `Продает за 2500 долларов.
+removeClawHover~~~Удаляет / продает коготь из этого поезда. `Продает за 2000 долларов.
+addClawHover~~~AДобавьте еще один коготь в этот поезд. `Стоит 2000 долларов.
+farmWaterHover~~~Для работы требуется вода. `Использование емкости: 3
+researchPointHover~~~Очки исследования
+timeHover~~~Месяц - год
+dronePopHover~~~Дрон населения
+mineTrackHighway~~~Вагонетки движутся быстрее, когда едут по шоссе (уровень высоты 2 или 3)
+Purchase these enhancements to upgrade the capacity and speed of your current infrastructure.~~~Приобретите эти усовершенствования, чтобы улучшить емкость и скорость вашей текущей инфраструктуры.
+Resource Requirement - Some unlocks require you to have processed a certain amount of a specific resource in your research bays in order to purchase~~~Для разблокировки, необходимо исследовать указанное кол-во и тип руды в лаборатории.
+Weight Requirement - Some unlocks require you to reach a certain 3-month weight output record in order to purchase.~~~Для разблокировки, необходимо достичь определенного 3-месячного рекорда по экспорту веса.
+TRANFER-TUBE~~~Трубка переноса
+To add minecarts or clawtrains to a track: select the track you've built and press the "add" button to buy some.~~~Чтобы добавить ваганетку на рельсы: выберите рельс, который вы создали, и нажмите кнопку «Добавить», чтобы купить его.
+It's possible to transfer resources between a step conveyor and minetrack via this simple setup.~~~С помощью этой простой конфигурации можно передавать ресурсы между конвейером и ваганеткой.
+Mouse-over a built structure and press [SPACEBAR] to duplicate the structure.~~~Наведите курсор мыши на построенную структуру и нажмите [ПРОБЕЛ], чтобы скопировать.
+Containers can be useful for storing resources.~~~Контейнеры могут быть полезны для хранения ресурсов.
+Make use of research bays to unlock new structures and technology.~~~Используйте лаборатории, чтобы исследовать новые технологии и улучшения.
+An unload stations can be set up to destroy the crates which reach the end. It also automatically destroys any empty crates which reach the end~~~Конвейеры могут быть настроены так, чтобы уничтожать ящики, которые достигают конца. В настройках можно использовать фильтр уничтожаемых ящиков.
+Minecarts can hold up to 4 crates worth of resources, this makes them ideal for transporting resources long distances.~~~Одна вагонетка вмещает до 4 едениц ресурса, что делает их идеальными для транспортировки на большие расстояния.
+Transfer claws can be useful for connecting or splitting up step conveyor pathways.~~~Транспортер может быть полезен для передачи ящиков между конвейерами.
+The downward nozzle of a transfer tube can only connect to a step-conveyor or minetrack.~~~Загрузочные и разгрузочные транспортные трубы, могут использоваться только с конвейером или вагонеткой.
+Minecarts move faster on highway tracks, use hotkeys 1,2,3 to switch track heights in build mode.~~~Вагонетки движутся быстрее на длинных участках дороги, используйте горячие клавиши 1,2,3 для переключения высоты путей в режиме постройки.
+Hold [TAB] to see inside all of your factories at the same time.~~~Задмите [TAB], чтобы увидеть все ваши фабрики одновременно.
+Avoid sending your drones on long journeys, travel-time matters when designing efficient transport systems.~~~Избегайте отправки дронов на дальние расстояния, учитывайте время в пути при проектировании эффективных транспортных систем.
+Remote connectors can be a convenient way to move resources around a crowded factory interior.~~~Удаленные разъемы могут быть удобным способом перемещения ресурсов по переполненному заводскому интерьеру.
+Don't expand to new resource deposits without fully utilizing your current ones. Bottlenecks in your system can cause major revenue deficiencies, don't let resources get backed up anywhere.~~~Не переходите на новые месторождения добычи пока не освоите текущее потребление ресурсов. Узкие места в вашей системе могут привести к серьезному дефициту доходов, не позволяйте ресурсам накапливаться.
+HEIGHT LEVEL~~~Высота
+MISSION~~~миссия
+OK~~~ОК
+Exit without saving, are you sure?~~~Выход без сохранения, ты уверен?
+Goal:~~~Цель:
+Continue playing to earn a Master Extractor's Medallion, or return to the Scenario selection screen.~~~Продолжайте играть, чтобы заработать медальон, или вернитесь к экрану выбора сценария.
+CONTINUE PLAYING~~~Продолжить игру
+SAVE AND EXIT~~~Сохранить и выйти
+Weight Output: 25,000~~~Выходная масса: 30 000
+Weight Goal:~~~Вес цели:
+Game by:~~~Игра была сделана
+Sean Cutino and Brad Hall~~~Sean Cutino и Brad Hall
+Sets the priority drones will give to this pitstop relative to others.`Drones can be set to not bring crates here at all, if it's set to "OFF".~~~Устанавливает приоритет, который дроны будут отдавать этому питстопу по отношению к другим. Дронов можно настроить так, чтобы они вообще не приносили сюда ящики, если они отключены.
+droneBayPowerHover~~~Для работы требуется электричество. `Ежемесячные расходы: 320 долларов. `Использование емкости: 0
+trainPowerHover~~~Для работы требуется электричество. `Ежемесячные расходы: 4000 долларов. `Использование емкости: 5
+Revenue~~~доходов
+3-month Weight Output Goal:~~~3 месяца Весовой экспорт Цель:
+3-month weight output record of:~~~Вес за 3 месяца:
+MISSION OBJECTIVE~~~Цель миссии
+SAVED~~~Сохраненный
+Simple Fields~~~Долина Сплита
+Simple Fields Description~~~Работайте вокруг пересохшего русла реки, разделяющего его на две части.
+Big Cliffs~~~Роки Хиллз
+Big Cliffs Description~~~Большие зеленые скалы, окруженные извилистыми реками и озерами, обеспечивают идеальный фон для фабричной базы.
+Open Space~~~Открытое пространство
+Open Space Description~~~Простая, плоская, открытая пустыня обеспечивает благодатную почву для вашего неограниченного творчества.
+Big Islands~~~Ледниковая зона
+Big Islands Description~~~Ледники, отделяющиеся от тающего ледяного покрова и богатые минеральными отложениями, служат плавающими платформами, на которых можно строить свою базу.
+Level_Craters~~~Кратеры
+Level_CratersDescription~~~На этом поле гигантские астероиды врезались в него на протяжении тысячелетий, каждое из которых вносило ценные руды в землю.
+Level_CoastLine~~~береговая линия
+Level_CoastLineDescription~~~Построй на краю океана на этой пышной лесной планете, не забудь про остров нефти.
+Level_BigLake~~~Озеро Оазис
+Level_BigLakeDescription~~~Посреди пустыни существует прекрасное озеро, окруженное пальмами и листвой. Нажмите на множество окружающих ресурсов.
+Level_IslandHopper~~~Остров Хоппер
+Level_IslandHopperDescription~~~Соедините много трасс между этими крошечными тропическими островами.
+Level_CenterMesa~~~Средняя гора
+Level_CenterMesaDescription~~~Большая холмистая гора служит базой для многих месторождений ресурсов, построенных вокруг нее.
+Level_Lakes~~~Ледяной край
+Level_LakesDescription~~~Принесите ресурсы от края льда на этот сложный участок земли.
+Level_CompactCanyon~~~Компактный Каньон
+Level_CompactCanyonDescription~~~Крошечный каньон содержит все ваши структуры на этой горячей вулканической планете. Вам нужно выяснить, как упаковать все в это небольшое пространство.
+Level_BigCliffs_ResourceClusters~~~Снежный лес
+Level_BigCliffs_ResourceClustersDescription~~~Ресурсы сильно сгруппированы в этой снежной лесной собственности.
+Level_OpenSpaceRocketsOnly~~~Ракетный Мастер
+Level_OpenSpaceRocketsOnlyDescription~~~Начните с ракет, уже разблокированных на этой странной зеленой планете мрази.
+Level_BigLake_CenterResources~~~Богатый ресурс
+Level_BigLake_CenterResourcesDescription~~~Каждый депозит находится на острове в центре этого имущества.
+Per Month~~~В месяц
+PLAY~~~Играть
+CREDITS~~~Разработчики
+QUIT~~~Выйти
+NEW COLONY~~~Новая колония
+LOAD COLONY~~~Загрузить колонию
+START~~~Создать
+CANCEL~~~Отмена
+Starter Mode:~~~Стартовый режим:
+Drone population.~~~Кол-во дронов.
+CURRENT TIME:~~~Текущее время:
+MISSION:~~~Миссия:
+LOAD COLONY:~~~Загрузить колонию
+IN PROGRESS~~~В ходе выполнения
+LOAD~~~Загрузить
+DELETE~~~Удалить
+NAME YOUR COLONY:~~~Имя колонии:
+DEMOLISH~~~Уничтожьте
+GREENHOUSE ENABLED~~~Теплица включена
+CONNECTOR COLOR:~~~Цвет разъема
+Sets which remote connector to be connected to if any exist in this container's factory.``Only one container per factory can be set to a given color.~~~Устанавливает, к какому удаленному соединителю подключаться, если таковой существует на фабрике этого контейнера. ``Только один контейнер на фабрику может быть настроен на данный цвет.
+Starter mode provides you with the basics prebuilt. If you are unfamiliar with the game, starter mode is essential.~~~Стартовый режим предоставляет вам готовые постройки. Если вы не знакомы с игрой, этот режим необходим.
+Clawtrack pitstops are best utilized in a relay system as shown. Be careful with them, as they can massively downgrade your truck loading efficiency if used improperly.~~~Монорельсовые автомобильные загрузчики лучше всего использовать в релейной системе, как показано на рисунке. Будьте осторожны с ними, так как они могут значительно снизить эффективность погрузки вашего грузовика при неправильном использовании.
+Edge panning:~~~Край панорамирования:
+Can be set to skip a certain number of claws, letting them pass by unaffected.~~~Может быть установлен, чтобы пропустить определенное количество когтей, позволяя им пройти без изменений.
+COST:~~~Стоимость:
+SELL:~~~Продать:
+CLAIM~~~Cобирать
+SUCCESS!~~~УСПЕХ!
+SuccessMessage~~~Продолжайте играть, чтобы заработать мастер-медальон, или вернитесь к экрану выбора сценария.
+MedallionSuccessMessage~~~Мастер Медальон Достигнуто! Продолжайте играть или вернитесь к экрану выбора скрипта.
+PLANET SELECT~~~СТАРТОВЫЙ БИОМ
