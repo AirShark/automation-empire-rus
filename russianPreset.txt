@@ -68,20 +68,20 @@ TRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESC~~~Загружа
 LOAD-STATION~~~СТАНЦИЯ ПОГРУЗКИ
 LOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESC~~~Дроны могут ставить ящики на этот конвейер. Также работает с Остановками захвата для подъема\спуска. (Пустые ящики, которые достигают конца, уничтожаются)
 UNLOAD-STATION~~~СТАНЦИЯ РАЗГРУЗКИ
-UNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESC~~~Дроны могут брать с него ящики. Так же работает с точками захвата и спуска ящиков при помощи монорельса. (Можно включить уничтожение пустых ящиков)
+UNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESC~~~Дроны могут ставить ящики на этот конвейер. Также работает с Остановками захвата для подъема\спуска. (Пустые ящики, которые достигают конца, уничтожаются)
 DESTROY ALL CRATES:~~~УНИЧТОЖИТЬ ВСЕ ЯЩИКИ:
 ROAD PITSTOP~~~ОСТАНОВКА ГРУЗОВИКОВ
-ROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESC~~~Грузовики останавливаются на этой остановке в ожидании загрузки ящиков дронами или монорельсовыми погрузчиками. После загрузки, грузовик уезжает что бы продать товар.
-TRAIN LOADING-SILO~~~Хранилище
+ROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESC~~~Грузовики останавливаются на этой остановке в ожидании загрузки ящиков дронами или монорельсовыми захватами. После загрузки, грузовик уезжает что бы продать товар.
+TRAIN LOADING-SILO~~~ПОГРУЗКА ПОЕЗДА
 TRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESC~~~Загружает вагоны поезда. Хранилище может хранить до 16 едениц одного вида ресурса.
-DRONE BAY~~~Ангар дронов
-DRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESC~~~Обеспечивает беспроводную связь для работы 4 дронов.
-MINING RIG~~~Буровая установка
-MININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESC~~~Извлекает из земли сырьевые ресурсы, такие как угольная/железная/золотая руда. Должен быть построен на месторождении ресурсов.
-CURRENTLY MINING:~~~Добывает:
+DRONE BAY~~~АНГАР ДРОНОВ
+DRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESC~~~Обеспечивает удаленную связь для работы 4 дронов.
+MINING RIG~~~БУРОВАЯ УСТАНОВКА
+MININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESCMININGRIGDESC~~~Извлекает из земли сырьевые ресурсы, такие как угольная/железная/золотая руда. Должен быть построен на месторождении.
+CURRENTLY MINING:~~~ДОБЫВАЕТ:
 1 PER~~~раз в
 SECONDS~~~сек
-OIL DERRICK~~~Нефтяная вышка
+OIL DERRICK~~~НЕФТЯНАЯ ВЫШКА
 OILDERRICKDESCOILDERRICKDESCOILDERRICKDESCOILDERRICKDESCOILDERRICKDESC~~~Извлекает сырую нефть из земли. Должен быть построен на нефтяном месторождении. Беспроводная связь использует $1000 в месяц.
 CURRENTLY EXTRACTING:~~~В настоящее время извлекает:
 FARM PLATFORM~~~Фермерская платформа
@@ -95,6 +95,7 @@ COMBINER~~~Сборщик
 COMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESC~~~Создает новый тип ресурса при объединениии двух сырьевых материалов. Забирает ресурсы с боковых портов. Выводит конечный продукт на передний порт. Должен быть построен на заводе.
 CURRENTLY COMBINING:~~~В настоящее время объединяет:
 RESEARCH BAY~~~Лаборатория
+RESEARCH UPGRADES~~~Улучшения
 RESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESC~~~Вырабатывает очки, которые можно потратить в меню исследований, чтобы улучшить или разблокировать новые структуры. Использует любой ресурс на входе и создает очки исследования, эквивалентные стоимости данного ресурса. Очки можно забрать после обработки определенного кол-ва ресурса.
 PROCESSING CONTENTS INTO:~~~Превращение содержимого в:
 RESEARCH POINTS~~~Очки исследования
