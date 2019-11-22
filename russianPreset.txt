@@ -1,83 +1,79 @@
-﻿BUY~~~Улучшить
-TRANSFER-TUBE~~~Транспортная труба
-POWER POLE~~~Опора ЛЭП
-LOAD STATION~~~Конвейер погрузки
-UNLOAD STATION~~~Конвейер разгрузки
-CLAWTRAIN TRACK~~~Монорельс
-TRAIN TRACK~~~Железная дорога
-ROAD~~~Дорога
+﻿BUY~~~УЛУЧШИТЬ
+TRANSFER-TUBE~~~ТРАНСПОРТНАЯ ТРУБА
+POWER POLE~~~ОПОРА ЛЭП
+LOAD STATION~~~КОНВЕЙЕР ПОГРУЗКИ
+UNLOAD STATION~~~КОНВЕЙЕР РАЗГРУЗКИ
+CLAWTRAIN TRACK~~~МОНОРЕЛЬС
+TRAIN TRACK~~~ЖЕЛЕЗНАЯ ДОРОГА
+ROAD~~~ДОРОГА
 This will destroy the factory and all of its contents, are you sure?~~~Уничтожить фабрику и все ее содержимое, вы уверены?
 Holds up to X cratesworth of one kind of resource. Allows the transfer of resources in and out via Transfer-Tubes.~~~Вмещает до 40 ед. одного типа ресурса. Позволяет перемещать ресурсы внутрь и наружу через транспортную трубу.
 Transfers Crates from one Conveyor to another Conveyor.~~~Переносит ящики с одного конвейера на другой. Может быть построен только на заводе.
-CRATE MAKER~~~Упаковщик
-GREEN GRASS~~~Зеленая трава
-NO~~~нет
-YES~~~да
-GREEN~~~зеленый
-RED~~~красный
+CRATE MAKER~~~УПАКОВЩИК
+GREEN GRASS~~~ЗЕЛЕНАЯ ТРАВА
+NO~~~НЕТ
+YES~~~ДА
+GREEN~~~ЗЕЛЕНЫЙ
+RED~~~КРАСНЫЙ
 DroneBayInfo~~~DroneBayInfoDroneBayInfoDroneBayInfoDroneBayInfoDroneBayInfopppppppppppppppppppppppppppppppppppppppppppp##Можно подключиться только к:##_conveyorImage
 Must unlock Water Works before unlocking farms~~~Необходимо разблокировать воду, прежде чем разблокировать фермы
 This will destroy the factory and all of its contents, are you sure?~~~Уничтожить фабрику и все ее содержимое, вы уверены?
-FACTORY~~~Завод
-POWER CONNECTED~~~Электричество:
-WATER CONNECTED~~~Вода:
-CONTAINER~~~Контейнер
-ACCEPTED RESOURCE:~~~Разрешенный ресурс:
-ACCEPTED RESOURCES:~~~Разрешенные ресурсы:
-CONTAINS:~~~Содержит:
-DESTROY CONTENTS~~~Уничтожить ресурсы
-ANY~~~Любые
-REMOTE CONNECTOR~~~Дистанционный разъем
+FACTORY~~~ЗАВОД
+POWER CONNECTED~~~ЭЛЕКТРИЧЕСТВО
+WATER CONNECTED~~~ВОДА
+CONTAINER~~~КОНТЕЙНЕР
+ACCEPTED RESOURCE:~~~РАЗРЕШЕННЫЙ РЕСУРС:
+ACCEPTED RESOURCES:~~~РАЗРЕШЕННЫЕ РЕСУРСЫ:
+CONTAINS:~~~СОДЕРЖИТ:
+DESTROY CONTENTS~~~УНИЧТОЖИТЬ РЕСУРСЫ
+ANY~~~ЛЮБЫЕ
+REMOTE CONNECTOR~~~УДАЛЕННЫЙ РАЗЪЕМ
 REMOTCONNECTORDESCREMOTCONNECTORDESCREMOTCONNECTORDESCREMOTCONNECTORDESCREMOTCONNECTORDESC~~~Принимает ресурсы для удаленной передачи в контейнер определенного цвета. Цвет задается в настройках контейнера. На каждом заводе может быть только по одному контейнеру каждого цвета.
-TRANSFER-CLAW~~~Транспортер
-POWER STATION~~~Электростанция
+TRANSFER-CLAW~~~ТРАНСПОРТЕРНЫЙ ЗАХВАТ
+POWER STATION~~~ЭЛЕКТРОСТАНЦИЯ
 POWER STATIONDESC~~~Вырабатывает электроэнергию, необходимую для работы определенных структур.
 POWER POLEDESC~~~Передает электроэнергию от электростанции к различным устройствам и заводам.
-ACCEPTED CONTENTS:~~~Принимаемое содержание:
-ALL~~~Все
-NONE~~~Очистить
-SKIP EVERY:~~~Пропустить каждый:
-OFF~~~Выкл
-ON~~~Вкл
-DRONE PRIORITY:~~~Приоритет для дронов:
-ACTIVE CRATES:~~~Ящики:
-HIGH~~~Высокий
-MEDIUM~~~Средний
-LOW~~~Низкий
-OFF~~~Выкл
-CONTENTS~~~Хранилище
-CrateMakerDescriptionCrateMakerDescriptionCrateMakerDescription~~~Упаковывает сырье в ящики. Имеет дополнительные входные порты, через которые поступает сырье для упаковки. Может быть построен снаружи или внутри завода. (имеет внутреннее хранилище на 30 ящиков)
+ACCEPTED CONTENTS:~~~ПРИНИМАЕМЫЙ РЕСУРС:
+ALL~~~ВСЕ
+NONE~~~ОЧИСТИТЬ
+SKIP EVERY:~~~ПРОПУСТИТЬ КАЖДЫЙ:
+OFF~~~ВЫКЛ
+ON~~~ВКЛ
+DRONE PRIORITY:~~~ПРИОРИТЕТ ДЛЯ ДРОНОВ:
+ACTIVE CRATES:~~~ЯЩИКИ:
+HIGH~~~ВЫСОКИЙ
+MEDIUM~~~СРЕДНИЙ
+LOW~~~НИЗКИЙ
+OFF~~~ВЫКЛ
+CONTENTS~~~ХРАНИЛИЩЕ
+CrateMakerDescriptionCrateMakerDescriptionCrateMakerDescription~~~Упаковывает сырье в ящики. Имеет дополнительные входные порты, через которые поступает сырье для упаковки. Может быть построен снаружи или внутри завода. (Имеет внутреннее хранилище на 30 ящиков)
 ClawTrainPickupStopDescClawTrainPickupStopDescClawTrainPickupStopDesc~~~Место остановки специального захвата для подьема ящика с конвейера.
-CLAWTRAIN PICK-UP STOP~~~Остановка захвата
+CLAWTRAIN PICK-UP STOP~~~Остановка захвата, подъем
 ClawTrainDropOffStopDescClawTrainDropOffStopDescClawTrainDropOffStopDesc~~~Место остановки специального захвата для спуска ящика на конвейер.
-CLAWTRAIN DROP-OFF STOP~~~Остановка спуска
+CLAWTRAIN DROP-OFF STOP~~~Остановка захвата, спуск
 CLAWTRAIN TRUCK LOADER~~~Автомобильный погрузчик
 ClawTrainTruckLoaderDescClawTrainTruckLoaderDescClawTrainTruckLoaderDesc~~~Строится над остановкой грузовиков для загрузки через монорельсовую систему с помощью захватов.
-CLAWTRAIN CRATE GATE~~~Блокировщик
+CLAWTRAIN CRATE GATE~~~Блокировщик захвата
 ClawTrainCrateGateDescClawTrainCrateGateDescClawTrainCrateGateDesc~~~Устанавливает ограничения на прохождение специальных захватов по монорельсу, если не были соблюдены заданные значения перевозимых ящиков.
-PASS REQUIREMENTS:~~~Проходящие требования:
-MAXIMUM CRATES~~~Максимальные ящики:
-MINIMUM CRATES~~~Минимальные ящики:
-NEVER ALLOW~~~Никогда не разрешать
-TRANSFER-TUBE G2G~~~Транспортная труба
-Transfer-Tube G2GDESCTransfer-Tube G2GDESCTransfer-Tube G2GDESC~~~Транспортирует ресурсы между специальными портами разных устройств или контейнеров.
-TRANSFER-TUBE G2T~~~Транспортная труба
-TRANSFER-TUBE G2TDESCTRANSFER-TUBE G2TDESCTRANSFER-TUBE G2TDESC~~~Разгружает ресурсы из контейнеров или других устройств в вагонетки и ящики.
-TRANSFER-TUBE T2G~~~Транспортная труба
-TRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESC~~~Позволяет загрузить ресурс из вагонеток или ящиков в нижний порт других устройств или контейнеров.
-LOAD-STATION~~~Станция погрузки
-LOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESC~~~Дроны могут ставить ящики на этот конвейер. Также работает с точками захвата и спуска ящиков при помощи монорельса.
-UNLOAD-STATION~~~UNLOAD-STATION
-UNLOAD-STATION:~~~UNLOAD-STATION2
-UNLOAD-STATTION~~~UNLOAD-STATION3
-UNLOAD-STATTION:~~~UNLOAD-STATION4
+PASS REQUIREMENTS:~~~ТРЕБОВАНИЯ:
+MAXIMUM CRATES~~~МАКСИМУМ ЯЩИКОВ:
+MINIMUM CRATES~~~МИНИМУМ ЯЩИКОВ:
+NEVER ALLOW~~~НИКОГДА НЕ РАЗРЕШАТЬ
+TRANSFER-TUBE G2G~~~ТРАНСПОРТНАЯ ТРУБА G2G
+Transfer-Tube G2GDESCTransfer-Tube G2GDESCTransfer-Tube G2GDESC~~~Передает ресурсы между специальными портами разных устройств или контейнеров.
+TRANSFER-TUBE G2T~~~ТРАНСПОРТНАЯ ТРУБА G2T
+TRANSFER-TUBE G2TDESCTRANSFER-TUBE G2TDESCTRANSFER-TUBE G2TDESC~~~Разгружает ресурсы из контейнеров или других устройств в вагонетки или ящики.
+TRANSFER-TUBE T2G~~~ТРАНСПОРТНАЯ ТРУБА T2G
+TRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESCTRANSFER-TUBE T2GDESC~~~Загружает ресурсы из вагонеток или ящиков в контейнеры или другие устройства.
+LOAD-STATION~~~СТАНЦИЯ ПОГРУЗКИ
+LOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESCLOAD-STATIONDESC~~~Дроны могут ставить ящики на этот конвейер. Также работает с Остановками захвата для подъема\спуска. (Пустые ящики, которые достигают конца, уничтожаются)
+UNLOAD-STATION~~~СТАНЦИЯ РАЗГРУЗКИ
 UNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESCUNLOAD-STATIONDESC~~~Дроны могут брать с него ящики. Так же работает с точками захвата и спуска ящиков при помощи монорельса. (Можно включить уничтожение пустых ящиков)
-DESTROY ALL CRATES:~~~Уничтожить все ящики:
-ROAD PITSTOP~~~Остановка грузовиков
+DESTROY ALL CRATES:~~~УНИЧТОЖИТЬ ВСЕ ЯЩИКИ:
+ROAD PITSTOP~~~ОСТАНОВКА ГРУЗОВИКОВ
 ROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESCROADPITSTOPDESC~~~Грузовики останавливаются на этой остановке в ожидании загрузки ящиков дронами или монорельсовыми погрузчиками. После загрузки, грузовик уезжает что бы продать товар.
 TRAIN LOADING-SILO~~~Хранилище
 TRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESCTRAINLOADINGSILODESC~~~Загружает вагоны поезда. Хранилище может хранить до 16 едениц одного вида ресурса.
-DRONEBAY~~~Ангар дронов
 DRONE BAY~~~Ангар дронов
 DRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESCDRONEBAYDESC~~~Обеспечивает беспроводную связь для работы 4 дронов.
 MINING RIG~~~Буровая установка
@@ -99,7 +95,6 @@ COMBINER~~~Сборщик
 COMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESCCOMBINERDESC~~~Создает новый тип ресурса при объединениии двух сырьевых материалов. Забирает ресурсы с боковых портов. Выводит конечный продукт на передний порт. Должен быть построен на заводе.
 CURRENTLY COMBINING:~~~В настоящее время объединяет:
 RESEARCH BAY~~~Лаборатория
-RESEARCH UPGRADES~~~Улучшения
 RESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESCRESEARCHBAYDESC~~~Вырабатывает очки, которые можно потратить в меню исследований, чтобы улучшить или разблокировать новые структуры. Использует любой ресурс на входе и создает очки исследования, эквивалентные стоимости данного ресурса. Очки можно забрать после обработки определенного кол-ва ресурса.
 PROCESSING CONTENTS INTO:~~~Превращение содержимого в:
 RESEARCH POINTS~~~Очки исследования
@@ -175,9 +170,8 @@ FACTORY~~~Завод
 FACTORYDESC~~~Обеспечивает внутреннее пространство, в котором могут быть построены сложные схемы переработки ресурсов. Необходимо подключение к источнику питания, чтобы обеспечить энергией размещенные машины.
 DOORWAY~~~Дверной проем
 DOORWAYDESC~~~Обеспечивает вход на фабрику, который будет использоваться дронами, ваганетками или монорельсом.
-MALL CONTAINER~~~Маленький контейнер
+SMALL CONTAINER~~~Маленький контейнер
 SMALLCONTAINERDESC~~~Вмещает до 40 ящиков одного вида ресурса. Позволяет транспортировать ресурсы через транспортные трубы.
-SMALL CONTAINER~~~Малый контейнер
 LARGE CONTAINER~~~Большой контейнер
 LARGECONTAINERDESC~~~Вмещает до 120 ящиков одного вида ресурса. Позволяет транспортировать ресурсы через транспортные трубы.
 GENERALCONTAINERDESCGENERALCONTAINERDESCGENERALCONTAINERDESCGENERALCONTAINERDESCGENERALCONTAINERDESC~~~Содержит ресурсы единственного типа. Позволяет передавать ресурсы внутрь и наружу через транспортные трубы.
