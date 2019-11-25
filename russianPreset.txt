@@ -305,14 +305,14 @@ Weight Requirement - Some unlocks require you to reach a certain 3-month weight 
 TRANFER-TUBE~~~Транспортная труба
 To add minecarts or clawtrains to a track: select the track you've built and press the "add" button to buy some.~~~Чтобы добавить ваганетку на рельсы: выберите рельс, который вы создали, и нажмите кнопку "Добавить", чтобы купить ее.
 It's possible to transfer resources between a step conveyor and minetrack via this simple setup.~~~С помощью этой простой конфигурации можно передавать ресурсы между конвейером и ваганеткой.
-Mouse-over a built structure and press [SPACEBAR] to duplicate the structure.~~~Наведите курсор мыши на построенную структуру и нажмите [ПРОБЕЛ], чтобы скопировать.
+Mouse-over a built structure and press [SPACEBAR] to duplicate the structure.~~~Наведите курсор мыши на построенную структуру и нажмите [ПРОБЕЛ], чтобы дублировать.
 Containers can be useful for storing resources.~~~Контейнеры могут быть полезны для хранения ресурсов.
 Make use of research bays to unlock new structures and technology.~~~Используйте лаборатории, чтобы исследовать новые технологии и улучшения.
 An unload stations can be set up to destroy the crates which reach the end. It also automatically destroys any empty crates which reach the end~~~Конвейеры могут быть настроены так, чтобы уничтожать ящики, которые достигают конца. В настройках можно использовать фильтр уничтожаемых ящиков.
 Minecarts can hold up to 4 crates worth of resources, this makes them ideal for transporting resources long distances.~~~Одна вагонетка вмещает до 4 едениц ресурса, что делает их идеальными для транспортировки на большие расстояния.
 Transfer claws can be useful for connecting or splitting up step conveyor pathways.~~~Захват может быть полезен для передачи ящиков между конвейерами.
 The downward nozzle of a transfer tube can only connect to a step-conveyor or minetrack.~~~Загрузочные и разгрузочные транспортные трубы, могут использоваться только с конвейером или вагонеткой.
-Minecarts move faster on highway tracks, use hotkeys 1,2,3 to switch track heights in build mode.~~~Вагонетки движутся быстрее на длинных участках дороги, используйте горячие клавиши 1,2,3 для переключения высоты путей в режиме постройки.
+Minecarts move faster on highway tracks, use hotkeys 1,2,3 to switch track heights in build mode.~~~Вагонетки движутся быстрее на высоких участках дороги, используйте горячие клавиши 1,2,3 для переключения высоты путей в режиме постройки.
 Hold [TAB] to see inside all of your factories at the same time.~~~Зажмите [TAB], чтобы увидеть все ваши фабрики одновременно.
 Avoid sending your drones on long journeys, travel-time matters when designing efficient transport systems.~~~Избегайте отправки дронов на дальние расстояния, учитывайте время в пути при проектировании эффективных транспортных систем.
 Remote connectors can be a convenient way to move resources around a crowded factory interior.~~~Удаленные разъемы могут быть удобным способом перемещения ресурсов по переполненному заводскому интерьеру.
@@ -338,7 +338,7 @@ Revenue~~~Доход
 MISSION OBJECTIVE~~~Цель миссии
 SAVED~~~Сохранено
 Simple Fields~~~Долина Сплита
-Simple Fields Description~~~Работайте вокруг пересохшего русла реки, разделяющего его на две части.
+Simple Fields Description~~~Работайте вокруг пересохшего русла реки, разделяющего ландшафт на две части.
 Big Cliffs~~~Роки Хиллз
 Big Cliffs Description~~~Большие зеленые скалы, окруженные извилистыми реками и озерами, обеспечивают идеальный фон для фабричной базы.
 Open Space~~~Открытое пространство
@@ -346,25 +346,25 @@ Open Space Description~~~Простая, плоская, открытая пус
 Big Islands~~~Ледниковая зона
 Big Islands Description~~~Ледники, отделяющиеся от тающего ледяного покрова и богатые минеральными отложениями, служат плавающими платформами, на которых можно строить свою базу.
 Level_Craters~~~Кратеры
-Level_CratersDescription~~~На этом поле гигантские астероиды врезались в него на протяжении тысячелетий, каждое из которых вносило ценные руды в землю.
-Level_CoastLine~~~береговая линия
-Level_CoastLineDescription~~~Построй на краю океана на этой пышной лесной планете, не забудь про остров нефти.
+Level_CratersDescription~~~Гигантские астероиды врезались в сюда на протяжении тысячелетий, каждый из которых вырывал ценные руды из земли.
+Level_CoastLine~~~Береговая линия
+Level_CoastLineDescription~~~Стройте на краю океана на этой пышной лесной планете, не забудьте про остров с нефтью.
 Level_BigLake~~~Озеро Оазис
-Level_BigLakeDescription~~~Посреди пустыни существует прекрасное озеро, окруженное пальмами и листвой. Нажмите на множество окружающих ресурсов.
+Level_BigLakeDescription~~~Посреди пустыни существует прекрасное озеро, окруженное пальмами и листвой. Добудьте это множество ресурсов.
 Level_IslandHopper~~~Остров Хоппер
-Level_IslandHopperDescription~~~Соедините много трасс между этими крошечными тропическими островами.
+Level_IslandHopperDescription~~~Соедините много дорог между этими крошечными тропическими островами.
 Level_CenterMesa~~~Средняя гора
-Level_CenterMesaDescription~~~Большая холмистая гора служит базой для многих месторождений ресурсов, построенных вокруг нее.
+Level_CenterMesaDescription~~~Большая холмистая гора служит основой для многих месторождений ресурсов, рожденных вокруг нее.
 Level_Lakes~~~Ледяной край
-Level_LakesDescription~~~Принесите ресурсы от края льда на этот сложный участок земли.
+Level_LakesDescription~~~Доставьте ресурсы от края льда, на этот сложный участок земли.
 Level_CompactCanyon~~~Компактный Каньон
-Level_CompactCanyonDescription~~~Крошечный каньон содержит все ваши структуры на этой горячей вулканической планете. Вам нужно выяснить, как упаковать все в это небольшое пространство.
+Level_CompactCanyonDescription~~~Крошечный каньон не вместит все ваши постройки на этой горячей вулканической планете. Вам нужно выяснить, как вместить все это в небольшое пространство.
 Level_BigCliffs_ResourceClusters~~~Снежный лес
-Level_BigCliffs_ResourceClustersDescription~~~Ресурсы сильно сгруппированы в этой снежной лесной собственности.
+Level_BigCliffs_ResourceClustersDescription~~~Ресурсы сильно сгруппированы в этой снежной лесной чаще.
 Level_OpenSpaceRocketsOnly~~~Ракетный Мастер
-Level_OpenSpaceRocketsOnlyDescription~~~Начните с ракет, уже разблокированных на этой странной зеленой планете мрази.
+Level_OpenSpaceRocketsOnlyDescription~~~Начните с ракет, уже разблокированные на этой странной зеленой мерзкой планете.
 Level_BigLake_CenterResources~~~Богатый ресурс
-Level_BigLake_CenterResourcesDescription~~~Каждый депозит находится на острове в центре этого имущества.
+Level_BigLake_CenterResourcesDescription~~~Каждый депозит находится на острове в центре этой земли.
 Per Month~~~В месяц
 PLAY~~~ИГРАТЬ
 CREDITS~~~АВТОРЫ
@@ -377,7 +377,7 @@ Starter Mode:~~~Стартовый режим:
 Drone population.~~~Кол-во дронов.
 CURRENT TIME:~~~Текущее время:
 MISSION:~~~МИССИЯ:
-LOAD COLONY:~~~ЗАГРУЗИТЬ КОЛОНИЮ
+LOAD COLONY:~~~Загрузить колонию
 IN PROGRESS~~~В ходе выполнения
 LOAD~~~ЗАГРУЗИТЬ
 DELETE~~~УДАЛИТЬ
@@ -392,10 +392,10 @@ Edge panning:~~~Край панорамирования:
 Can be set to skip a certain number of claws, letting them pass by unaffected.~~~Может быть установлен, чтобы пропустить определенное количество захватов, позволяя им пройти без изменений.
 COST:~~~ЦЕНА:
 SELL:~~~ПРОДАТЬ:
-CLAIM~~~CОБРАТЬ
+CLAIM~~~СОБРАТЬ
 SUCCESS!~~~УСПЕХ!
 SuccessMessage~~~Продолжайте играть, чтобы заработать мастер-медальон, или вернитесь к экрану выбора сценария.
-MedallionSuccessMessage~~~Мастер Медальон Достигнуто! Продолжайте играть или вернитесь к экрану выбора скрипта.
+MedallionSuccessMessage~~~Мастер Медальон Достигнуто! Продолжайте играть или вернитесь к экрану выбора сценария.
 PLANET SELECT~~~ВЫБОР ПЛАНЕТЫ
 Very Easy Mode:~~~Легкий режим
 Reduces taxes by 90%~~~Налоги уменьшены на 90%
