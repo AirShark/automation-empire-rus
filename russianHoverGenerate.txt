@@ -18,3 +18,8 @@ Iron Ore~~~Железная руда
 Oil~~~Нефть
 Crude Oil~~~Сырая нефть
 Steel Plates~~~Стальные пластины
+Gold Plates~~~Золотые пластины
+Mega Fuel~~~Мега Топливо
+Carbon Meal~~~Углеродная пыль
+Ionized Capacitors~~~Ионные конденсаторы
+Carbon~~~Углерод
